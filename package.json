@@ -1,0 +1,24 @@
+{
+  "name": "@cortex-ui/fonts",
+  "version": "1.0.0",
+  "description": "Cortex-UI Sarabun Fonts",
+  "main": "index.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Punyarit/cortex-ui-fonts.git"
+  },
+  "keywords": [
+    "Cortex-UI"
+  ],
+  "author": "Punyarit",
+  "license": "H Lab Co., Ltd.",
+  "bugs": {
+    "url": "https://github.com/Punyarit/cortex-ui-fonts/issues"
+  },
+  "homepage": "https://github.com/Punyarit/cortex-ui-fonts#readme",
+  "files": [
+    "./fonts/*",
+    "./styles/*"
+  ]
+}
